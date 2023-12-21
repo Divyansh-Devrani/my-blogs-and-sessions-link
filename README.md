@@ -1,15 +1,13 @@
 # MY BLOGS & SESSIONS LINKS
----------------------
+
 ## Sessions
----------------------
+
 | Sessions | Links |
 | ------ | ------ |
 | How you can build a REST API with Play Framework | https://www.youtube.com/watch?v=2y49wFiXhQI |
 | Introduction to Cosmos DB | https://www.youtube.com/watch?v=95wokuawQjM|
----------------------
-## Blogs
----------------------
 
+## Blogs
 | Blogs | Links |
 | ------ | ------ |
 | Different methods are used in string operation – Scala | https://blog.knoldus.com/different-methods-are-used-in-string-operation-scala/ |
