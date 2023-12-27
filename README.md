@@ -21,3 +21,11 @@
 | How To Create And Insert Data In Postgre Hstore | https://blog.knoldus.com/how-to-create-and-insert-data-in-postgre-hstore/ |
 | Ways to Retrieve Data From PostgreSQL Hstore | https://blog.knoldus.com/ways-to-retrieve-data-from-postgresql-hstore/|
 | PostgreSQL OR APACHE CASSANDRA: WHICH ONE IS THE BETTER OPTION | https://blog.knoldus.com/postgresql-or-apache-cassandra-which-one-is-the-better-option/ |
+
+## About Me
+| Name                    | Divyansh Devrani                                               |
+|-------------------------|----------------------------------------------------------------|
+| Linkedin                | https://in.linkedin.com/in/divyansh-devrani-70ab4a172          |
+| Github                  | Divyansh-Devrani                                               |
+| Mail                    | divyanshdevrani.k@gmail.com                                    |
+
