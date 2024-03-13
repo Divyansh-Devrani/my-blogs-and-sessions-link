@@ -25,7 +25,7 @@
 ## About Me
 | Name                    | Divyansh Devrani                                               |
 |-------------------------|----------------------------------------------------------------|
-| Linkedin                | https://in.linkedin.com/in/divyansh-devrani-70ab4a172          |
+| Linkedin                | https://www.linkedin.com/in/divyanshdevrani/         |
 | Github                  | Divyansh-Devrani                                               |
 | Mail                    | divyanshdevrani.k@gmail.com                                    |
 
