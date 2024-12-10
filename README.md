@@ -6,6 +6,7 @@
 | ------ | ------ |
 | How you can build a REST API with Play Framework | https://www.youtube.com/watch?v=2y49wFiXhQI |
 | Introduction to Cosmos DB | https://www.youtube.com/watch?v=95wokuawQjM|
+| RabbitMQ with Scala | https://www.youtube.com/watch?v=I1A07063ikU|
 
 ## Blogs
 | Blogs | Links |
